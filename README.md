@@ -59,7 +59,25 @@ I enjoy building scalable systems, exploring AI/LLM applications, and collaborat
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🎓 Education
+
+**BSc Electrical Engineer**  
+University of Antioquia | 2008 - 2014
+
+---
+
+## 📜 Certifications
+
+[![Credly Profile](https://img.shields.io/badge/Credly-FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/juan-echeverri.0364610e)
+
+- **[AWS Certified Machine Learning - Specialty](https://jecheverrigutierrez.s3.amazonaws.com/aws-certifications/AWS+Certified+Machine+Learning+-+Specialty+certificate.pdf)** (Feb 2021 - Feb 2024)
+- **[AWS Certified Cloud Practitioner](https://jecheverrigutierrez.s3.amazonaws.com/aws-certifications/AWS+Certified+Cloud+Practitioner+certificate.pdf)** (Jul 2019 - Jul 2022)
+- **[DeepLearning.AI TensorFlow Developer](https://jecheverrigutierrez.s3.amazonaws.com/aws-certifications/Tensorflow+developer.pdf)** (Nov 2020)
+- **[Udacity Marketing Nanodegree](https://www.udacity.com/certificate/e/b355b514-f938-11ef-9cb0-fbe24a6e2f6c)** (2024)
+
+---
+
+## 🤝 Let's Collaborate
 
 I’m open to contributing to **open-source projects**, especially in the areas of **cloud, backend, and AI-powered applications**.  
 
