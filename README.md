@@ -59,13 +59,6 @@ I enjoy building scalable systems, exploring AI/LLM applications, and collaborat
 
 ---
 
-## 🎓 Education
-
-**BSc Electrical Engineer**  
-University of Antioquia | 2008 - 2014
-
----
-
 ## 📜 Certifications
 
 [![Credly Profile](https://img.shields.io/badge/Credly-FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/juan-echeverri.0364610e)
@@ -75,6 +68,14 @@ University of Antioquia | 2008 - 2014
 - **[DeepLearning.AI TensorFlow Developer](https://jecheverrigutierrez.s3.amazonaws.com/aws-certifications/Tensorflow+developer.pdf)** (Nov 2020)
 - **[Udacity Marketing Nanodegree](https://www.udacity.com/certificate/e/b355b514-f938-11ef-9cb0-fbe24a6e2f6c)** (Jul 2025)
 
+
+---
+
+## 🎓 Education
+
+**BSc Electrical Engineer**  
+University of Antioquia | 2008 - 2014
+
 ---
 
 ## 🤝 Let's Collaborate
@@ -82,7 +83,8 @@ University of Antioquia | 2008 - 2014
 I’m open to contributing to **open-source projects**, especially in the areas of **cloud, backend, and AI-powered applications**.  
 
 📫 Reach me at:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-echeverri/)  
-[![Resume](https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](http://juan-echeverri-resume.s3-website-us-east-1.amazonaws.com/)  
+
+[![Resume](https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](http://juan-echeverri-resume.s3-website-us-east-1.amazonaws.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juaneche/)  
 
 
