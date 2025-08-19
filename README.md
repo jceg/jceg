@@ -1,13 +1,6 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Juan%20Echeverri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
----
-
 ## 👋 About Me
 
-Hi, I’m **Juan Echeverri** — a **software developer** and**electrical engineer** with experience in  
+Hi, I’m **Juan Echeverri** — a **software developer** and **electrical engineer** with experience in  
 **Cloud Computing (AWS), Machine Learning, and Web Development**.  
 
 I enjoy building scalable systems, exploring AI/LLM applications, and collaborating on open-source projects.  
@@ -29,10 +22,13 @@ I enjoy building scalable systems, exploring AI/LLM applications, and collaborat
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-%23009639.svg?&style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cassandra-%231287B1.svg?&style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
 
-  <!-- ML -->
+  <!-- ML & AI -->
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-%2300C4A7.svg?&style=for-the-badge&logo=chainlink&logoColor=white"/>
   
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
@@ -46,11 +42,10 @@ I enjoy building scalable systems, exploring AI/LLM applications, and collaborat
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanecheverri&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanecheverri&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanecheverri&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" height="200"/>
 </p>
 
 ---
@@ -61,11 +56,6 @@ I’m open to contributing to **open-source projects**, especially in the areas 
 
 📫 Reach me at:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-echeverri/)  
-[![Resume](https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](http://juan-echeverri-resume.s3-website-us-east-1.amazonaws.com/)  
+[![Resume](https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](http://juan-echeverri-resume.s3-website-us-east-1.amazonaws.com/)  
 
----
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
