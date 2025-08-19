@@ -17,7 +17,10 @@ I enjoy building scalable systems, exploring AI/LLM applications, and collaborat
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-%2337B24D.svg?&style=for-the-badge&logo=celery&logoColor=white"/>
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -37,6 +40,7 @@ I enjoy building scalable systems, exploring AI/LLM applications, and collaborat
   
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
