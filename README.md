@@ -73,7 +73,7 @@ University of Antioquia | 2008 - 2014
 - **[AWS Certified Machine Learning - Specialty](https://jecheverrigutierrez.s3.amazonaws.com/aws-certifications/AWS+Certified+Machine+Learning+-+Specialty+certificate.pdf)** (Feb 2021 - Feb 2024)
 - **[AWS Certified Cloud Practitioner](https://jecheverrigutierrez.s3.amazonaws.com/aws-certifications/AWS+Certified+Cloud+Practitioner+certificate.pdf)** (Jul 2019 - Jul 2022)
 - **[DeepLearning.AI TensorFlow Developer](https://jecheverrigutierrez.s3.amazonaws.com/aws-certifications/Tensorflow+developer.pdf)** (Nov 2020)
-- **[Udacity Marketing Nanodegree](https://www.udacity.com/certificate/e/b355b514-f938-11ef-9cb0-fbe24a6e2f6c)** (2024)
+- **[Udacity Marketing Nanodegree](https://www.udacity.com/certificate/e/b355b514-f938-11ef-9cb0-fbe24a6e2f6c)** (Jul 2025)
 
 ---
 
