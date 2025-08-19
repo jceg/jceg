@@ -45,7 +45,12 @@ I enjoy building scalable systems, exploring AI/LLM applications, and collaborat
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanecheverri&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" height="200"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
