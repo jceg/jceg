@@ -78,13 +78,3 @@ University of Antioquia | 2008 - 2014
 
 ---
 
-## 🤝 Let's Collaborate
-
-I’m open to contributing to **open-source projects**, especially in the areas of **cloud, backend, and AI-powered applications**.  
-
-📫 Reach me at:  
-
-[![Resume](https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](http://juan-echeverri-resume.s3-website-us-east-1.amazonaws.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juaneche/)  
-
-
